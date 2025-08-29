@@ -11,7 +11,7 @@ public class Taller01 {
 
         do {
             ShowMenu();
-            System.out.print("Elige una Opcion: ");
+            System.out.print("Elige una Opcion : ");
             choice = sc.nextInt();
             sc.nextLine();
 
